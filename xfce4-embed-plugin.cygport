@@ -1,0 +1,11 @@
+inherit xfce4
+
+NAME="xfce4-embed-plugin"
+VERSION=1.4.0
+RELEASE=1
+CATEGORY="Xfce"
+SUMMARY="Embeds arbitrary apps into the Xfce panel"
+DESCRIPTION="Xfce4-embed-plugin is a plugin that enables the embedding of
+arbitrary application windows into the Xfce panel. The window is resized
+into the panel space available, and the associated program can be
+automatically launched if it is not open."
