@@ -1,7 +1,7 @@
 inherit xfce4
 
 NAME="xfce4-embed-plugin"
-VERSION=1.4.0
+VERSION=1.6.0
 RELEASE=1
 CATEGORY="Xfce"
 SUMMARY="Embeds arbitrary apps into the Xfce panel"
